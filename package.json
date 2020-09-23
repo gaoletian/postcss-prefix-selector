@@ -1,7 +1,7 @@
 {
   "name": "postcss-prefix-selector2",
   "description": "Prefix all CSS rules with a selector",
-  "version": "1.7.3",
+  "version": "1.7.4",
   "author": "gaoletian",
   "contributors": [
     "Valentin Radulescu <valentin@radulescu.me> (https://valentin.io)",
