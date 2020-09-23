@@ -11,10 +11,11 @@ module.exports = function postcssPrefixSelector(options) {
       result.opts.from &&
       fileExcludeFileReg.test(result.opts.from)
     ) {
-      console.log(
-        'postcssPrefixSelector2 exclude file ===> ',
-        result.opts.from
-      );
+      process.env.DEBUG &&
+        console.log(
+          'postcssPrefixSelector2 exclude file ===> ',
+          result.opts.from
+        );
       return;
     }
 
