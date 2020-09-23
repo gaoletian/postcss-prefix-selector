@@ -1,15 +1,16 @@
 {
-  "name": "postcss-prefix-selector",
+  "name": "postcss-prefix-selector2",
   "description": "Prefix all CSS rules with a selector",
-  "version": "1.7.2",
-  "author": "Jonathan Ong <me@jongleberry.com> (http://jongleberry.com)",
+  "version": "1.7.3",
+  "author": "gaoletian",
   "contributors": [
-    "Valentin Radulescu <valentin@radulescu.me> (https://valentin.io)"
+    "Valentin Radulescu <valentin@radulescu.me> (https://valentin.io)",
+    "gaoletian <67890211@qq.com>"
   ],
   "license": "MIT",
-  "repository": "RadValentin/postcss-prefix-selector",
-  "bugs": "https://github.com/RadValentin/postcss-prefix-selector/issues",
-  "homepage": "https://github.com/RadValentin/postcss-prefix-selector",
+  "repository": "gaoletian/postcss-prefix-selector",
+  "bugs": "https://github.com/gaoletian/postcss-prefix-selector/issues",
+  "homepage": "https://github.com/gaoletian/postcss-prefix-selector",
   "dependencies": {
     "postcss": "^7.0.0"
   },
